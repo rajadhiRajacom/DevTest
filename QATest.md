@@ -1,4 +1,4 @@
-# Automation Test practices  
+# Test Automation Best practices  
 
 **1. BDD - Specflow Vs Cucumber**  - 
 [SpecflowVsCucumber.pdf](https://github.com/rajadhiRajacom/QATest/blob/master/BDD-Specflow_VS_Cucumber.pdf) <br>
