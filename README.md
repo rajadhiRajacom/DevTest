@@ -1,2 +1,0 @@
-# QATest
-QATest
