@@ -20,3 +20,21 @@ Happy Learning 😊 <br>
 #|Topics  | Reference Docs
 --|------------ | -------------
 1|Java Features in 5, 7 To 13 |[ Java Features](https://github.com/rajadhiRajacom/DevTest/blob/master/Java_Features.pdf)
+
+
+
+<br><br><br><br>
+
+
+
+
+### Reference from JavaPoint  <br>
+#|Topics  | Reference Docs
+--|------------ | -------------
+1|Java Lambda  |[ Java Lambda ](https://github.com/rajadhiRajacom/DevTest/blob/master/Java_Lambda_javatpoint.pdf)
+2|Java Generics  |[ Java Generics ](https://github.com/rajadhiRajacom/DevTest/blob/master/Java_Generics_javatpoint.pdf)
+3|Java Variable Argument  |[ Java Variable Argument ](https://github.com/rajadhiRajacom/DevTest/blob/master/Java_Variable%20Argument_javatpoint.pdf)
+4|Java Annotation  |[ Java Annotation ](https://github.com/rajadhiRajacom/DevTest/blob/master/Java%20Annotations_javatpoint.pdf)
+
+More info refer the [Link](https://www.javatpoint.com/)
+<br><br>
