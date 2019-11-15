@@ -20,8 +20,7 @@ Happy Learning 😊 <br>
 #|Topics  | Reference Docs
 --|------------ | -------------
 1|Java Features in 5, 7 To 13 | [Java Features Overview](https://github.com/rajadhiRajacom/DevTest/blob/master/Java_Features_Overview.pdf) --- [ Java Features Details](https://github.com/rajadhiRajacom/DevTest/blob/master/Java_Features.pdf)
-
-
+2|Selenium Features in 4 | [Selenium  4](https://github.com/rajadhiRajacom/DevTest/blob/master/Selenium_4.pdf)
 
 <br><br><br><br>
 
