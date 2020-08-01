@@ -23,18 +23,3 @@ Happy Learning 😊 <br>
 2|Selenium Features in 4 | [Selenium  4](https://github.com/rajadhiRajacom/DevTest/blob/master/Selenium_4.pdf)
 
 <br><br><br><br>
-
-
-
-
-### Reference from JavaPoint  <br>
-
-#|Topics  | Reference Docs
---|------------ | -------------
-1|Java Lambda  |[ Java Lambda ](https://github.com/rajadhiRajacom/DevTest/blob/master/Java_Lambda_javatpoint.pdf)
-2|Java Generics  |[ Java Generics ](https://github.com/rajadhiRajacom/DevTest/blob/master/Java_Generics_javatpoint.pdf)
-3|Java Variable Argument  |[ Java Variable Argument ](https://github.com/rajadhiRajacom/DevTest/blob/master/Java_Variable%20Argument_javatpoint.pdf)
-4|Java Annotation  |[ Java Annotation ](https://github.com/rajadhiRajacom/DevTest/blob/master/Java%20Annotations_javatpoint.pdf)
-
-More info refer the [Link](https://www.javatpoint.com/)
-<br><br>
